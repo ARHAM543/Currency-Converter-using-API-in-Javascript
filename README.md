@@ -75,7 +75,7 @@ currency-converter/
 
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/ARHAM543/Currency-Converter-using-API-in-Javascript.git
 cd currency-converter
 
 2. Install Dependencies
